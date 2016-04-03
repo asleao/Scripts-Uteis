@@ -2,7 +2,7 @@
 ====================================
 
 > Esses scripts foram feitos para instalar programas essenciais, poupando o esforço repetitivo. Eles foram feitos para serem usados no bash, no linux.
-
+> É bastante útil, quando se formata o PC e tem que instalar todos os programas novamente.
 ### Segue abaixo as espeficiações dos scripts:
 
 #### O script InstalarProgramasBasicos.sh instala os seguintes programas:
