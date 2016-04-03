@@ -3,9 +3,9 @@ Scripts para instalação de programas
 
 > Esses scripts foram feitos para instalar programas essenciais, poupando o esforço repetitivo. Eles foram feitos para serem usados no bash, no linux.
 
-# Segue abaixo as espeficiações dos scripts:
+### Segue abaixo as espeficiações dos scripts:
 
-## O script InstalarProgramasBasicos.sh instala os seguintes programas:
+#### O script InstalarProgramasBasicos.sh instala os seguintes programas:
 * Java versão 8;
 * Sublime Text-3;
 * Youtube-dl;
@@ -14,7 +14,7 @@ Scripts para instalação de programas
 * VLC;
 * Tree.
 
-## O script InstalarPostgresqlEPgadmin.sh instala os seguintes programas:
+#### O script InstalarPostgresqlEPgadmin.sh instala os seguintes programas:
 * Postgresql;
 * Pgadmin3.
 
